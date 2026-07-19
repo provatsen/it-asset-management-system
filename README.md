@@ -4,9 +4,9 @@ A modern web-based **IT Asset Management System** developed using **PHP, MySQL, 
 
 ---
 ## Login Info:
-User: administrator
-Key: QwertY@26
-After logging in, delete all products and others users and create your own users. Remember, the current version only supports the administrator user to access the admin button.
+[User: administrator
+Key: QwertY@26]
+After logging in, delete all products and other users and create your own users. Remember, the current version only supports the administrator user to access the admin button.
 
 ## 📌 Features
 
@@ -105,7 +105,7 @@ IT-Asset-Management/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/it-asset-management-system.git
+git clone https://github.com/provatsen/it-asset-management-system.git
 ```
 
 ### 2. Move the project to your web server
