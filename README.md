@@ -6,6 +6,8 @@ A modern web-based **IT Asset Management System** developed using **PHP, MySQL, 
 ## Login Info:
 [User: administrator
 Key: QwertY@26]
+[User: Provat
+Key: Password123#]
 After logging in, delete all products and other users and create your own users. Remember, the current version only supports the administrator user to access the admin button.
 
 ## 📌 Features
