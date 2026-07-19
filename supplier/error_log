@@ -1,0 +1,35 @@
+[06-Feb-2026 06:03:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.contact_person' in 'SELECT' in /home/sdlcutting/itsg.sdldts.net/supplier/supplier_performance.php:15
+Stack trace:
+#0 /home/sdlcutting/itsg.sdldts.net/supplier/supplier_performance.php(15): PDO->prepare('\r\n    SELECT \r\n...')
+#1 {main}
+  thrown in /home/sdlcutting/itsg.sdldts.net/supplier/supplier_performance.php on line 15
+[06-Feb-2026 06:03:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.contact_person' in 'SELECT' in /home/sdlcutting/itsg.sdldts.net/supplier/supplier_performance.php:15
+Stack trace:
+#0 /home/sdlcutting/itsg.sdldts.net/supplier/supplier_performance.php(15): PDO->prepare('\r\n    SELECT \r\n...')
+#1 {main}
+  thrown in /home/sdlcutting/itsg.sdldts.net/supplier/supplier_performance.php on line 15
+[06-Feb-2026 06:03:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.contact_person' in 'SELECT' in /home/sdlcutting/itsg.sdldts.net/supplier/supplier_performance.php:15
+Stack trace:
+#0 /home/sdlcutting/itsg.sdldts.net/supplier/supplier_performance.php(15): PDO->prepare('\r\n    SELECT \r\n...')
+#1 {main}
+  thrown in /home/sdlcutting/itsg.sdldts.net/supplier/supplier_performance.php on line 15
+[06-Feb-2026 06:03:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.contact_person' in 'SELECT' in /home/sdlcutting/itsg.sdldts.net/supplier/supplier_performance.php:15
+Stack trace:
+#0 /home/sdlcutting/itsg.sdldts.net/supplier/supplier_performance.php(15): PDO->prepare('\r\n    SELECT \r\n...')
+#1 {main}
+  thrown in /home/sdlcutting/itsg.sdldts.net/supplier/supplier_performance.php on line 15
+[06-Feb-2026 06:04:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.contact_person' in 'SELECT' in /home/sdlcutting/itsg.sdldts.net/supplier/supplier_performance.php:15
+Stack trace:
+#0 /home/sdlcutting/itsg.sdldts.net/supplier/supplier_performance.php(15): PDO->prepare('\r\n    SELECT \r\n...')
+#1 {main}
+  thrown in /home/sdlcutting/itsg.sdldts.net/supplier/supplier_performance.php on line 15
+[06-Feb-2026 06:04:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.contact_person' in 'SELECT' in /home/sdlcutting/itsg.sdldts.net/supplier/supplier_performance.php:15
+Stack trace:
+#0 /home/sdlcutting/itsg.sdldts.net/supplier/supplier_performance.php(15): PDO->prepare('\r\n    SELECT \r\n...')
+#1 {main}
+  thrown in /home/sdlcutting/itsg.sdldts.net/supplier/supplier_performance.php on line 15
+[06-Feb-2026 06:05:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.contact_person' in 'SELECT' in /home/sdlcutting/itsg.sdldts.net/supplier/supplier_performance.php:15
+Stack trace:
+#0 /home/sdlcutting/itsg.sdldts.net/supplier/supplier_performance.php(15): PDO->prepare('\r\n    SELECT \r\n...')
+#1 {main}
+  thrown in /home/sdlcutting/itsg.sdldts.net/supplier/supplier_performance.php on line 15

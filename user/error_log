@@ -1,0 +1,39 @@
+[12-Jul-2025 06:03:40 UTC] PHP Warning:  include_once(includes/header.php): Failed to open stream: No such file or directory in /home/sdlcutting/itsg.sdldts.net/user/create_user.php on line 126
+[12-Jul-2025 06:03:40 UTC] PHP Warning:  include_once(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/sdlcutting/itsg.sdldts.net/user/create_user.php on line 126
+[12-Jul-2025 06:03:40 UTC] PHP Warning:  include_once(includes/footer.php): Failed to open stream: No such file or directory in /home/sdlcutting/itsg.sdldts.net/user/create_user.php on line 169
+[12-Jul-2025 06:03:40 UTC] PHP Warning:  include_once(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/sdlcutting/itsg.sdldts.net/user/create_user.php on line 169
+[12-Jul-2025 06:04:37 UTC] PHP Warning:  include_once(includes/header.php): Failed to open stream: No such file or directory in /home/sdlcutting/itsg.sdldts.net/user/create_user.php on line 126
+[12-Jul-2025 06:04:37 UTC] PHP Warning:  include_once(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/sdlcutting/itsg.sdldts.net/user/create_user.php on line 126
+[12-Jul-2025 06:04:37 UTC] PHP Warning:  include_once(includes/footer.php): Failed to open stream: No such file or directory in /home/sdlcutting/itsg.sdldts.net/user/create_user.php on line 169
+[12-Jul-2025 06:04:37 UTC] PHP Warning:  include_once(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/sdlcutting/itsg.sdldts.net/user/create_user.php on line 169
+[12-Jul-2025 06:05:19 UTC] PHP Warning:  include_once(includes/header.php): Failed to open stream: No such file or directory in /home/sdlcutting/itsg.sdldts.net/user/create_user.php on line 126
+[12-Jul-2025 06:05:19 UTC] PHP Warning:  include_once(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/sdlcutting/itsg.sdldts.net/user/create_user.php on line 126
+[12-Jul-2025 06:05:19 UTC] PHP Warning:  include_once(includes/footer.php): Failed to open stream: No such file or directory in /home/sdlcutting/itsg.sdldts.net/user/create_user.php on line 169
+[12-Jul-2025 06:05:19 UTC] PHP Warning:  include_once(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/sdlcutting/itsg.sdldts.net/user/create_user.php on line 169
+[02-Jan-2026 12:32:25 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[02-Jan-2026 12:32:27 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[09-Jan-2026 11:50:37 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[09-Jan-2026 11:50:45 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[09-Jan-2026 11:56:17 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[09-Jan-2026 11:56:18 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[09-Jan-2026 11:58:36 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[09-Jan-2026 11:59:10 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[09-Jan-2026 11:59:36 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[09-Jan-2026 12:02:59 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[09-Jan-2026 12:03:01 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[09-Jan-2026 12:03:36 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[09-Jan-2026 12:03:37 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[09-Jan-2026 12:16:39 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[09-Jan-2026 12:16:40 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[10-Jan-2026 08:52:55 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[10-Jan-2026 08:52:57 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[11-Jan-2026 15:12:50 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[11-Jan-2026 15:13:04 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[11-Jan-2026 15:13:06 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[11-Jan-2026 15:13:20 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[11-Jan-2026 15:13:23 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[11-Jan-2026 15:13:42 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[13-Jan-2026 11:40:50 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[13-Jan-2026 11:40:52 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[17-Jan-2026 11:20:58 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[17-Jan-2026 11:21:03 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514

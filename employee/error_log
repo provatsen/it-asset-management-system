@@ -1,0 +1,240 @@
+[15-Jul-2025 09:35:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sdlcutting_inventory_db.employees' doesn't exist in /home/sdlcutting/itsg.sdldts.net/employee/employees.php:22
+Stack trace:
+#0 /home/sdlcutting/itsg.sdldts.net/employee/employees.php(22): PDO->prepare('SELECT id, name...')
+#1 {main}
+  thrown in /home/sdlcutting/itsg.sdldts.net/employee/employees.php on line 22
+[15-Jul-2025 09:35:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sdlcutting_inventory_db.employees' doesn't exist in /home/sdlcutting/itsg.sdldts.net/employee/employees.php:22
+Stack trace:
+#0 /home/sdlcutting/itsg.sdldts.net/employee/employees.php(22): PDO->prepare('SELECT id, name...')
+#1 {main}
+  thrown in /home/sdlcutting/itsg.sdldts.net/employee/employees.php on line 22
+[15-Jul-2025 09:53:40 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 397
+[15-Jul-2025 09:53:42 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 397
+[15-Jul-2025 09:53:48 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 397
+[15-Jul-2025 09:53:49 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 397
+[15-Jul-2025 09:53:50 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 397
+[15-Jul-2025 09:54:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sdlcutting_inventory_db.employees' doesn't exist in /home/sdlcutting/itsg.sdldts.net/employee/employees.php:22
+Stack trace:
+#0 /home/sdlcutting/itsg.sdldts.net/employee/employees.php(22): PDO->prepare('SELECT id, name...')
+#1 {main}
+  thrown in /home/sdlcutting/itsg.sdldts.net/employee/employees.php on line 22
+[15-Jul-2025 11:50:21 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 397
+[15-Jul-2025 11:50:26 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 397
+[15-Jul-2025 11:51:37 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 3
+[15-Jul-2025 11:52:04 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 397
+[15-Jul-2025 11:54:08 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 3
+[15-Jul-2025 11:54:36 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 397
+[15-Jul-2025 11:58:55 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 397
+[15-Jul-2025 11:58:57 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 397
+[15-Jul-2025 11:59:31 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 397
+[15-Jul-2025 12:00:24 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 3
+[15-Jul-2025 12:03:02 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 402
+[15-Jul-2025 12:18:16 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 402
+[15-Jul-2025 12:31:45 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 402
+[15-Jul-2025 12:48:02 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 402
+[15-Jul-2025 12:50:07 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 409
+[15-Jul-2025 12:53:15 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 409
+[16-Jul-2025 02:13:08 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 409
+[16-Jul-2025 02:14:38 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 409
+[16-Jul-2025 02:38:27 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 397
+[16-Jul-2025 02:38:29 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 397
+[16-Jul-2025 02:39:10 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 397
+[16-Jul-2025 02:39:11 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 397
+[16-Jul-2025 02:39:11 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 397
+[16-Jul-2025 02:39:11 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 397
+[16-Jul-2025 02:39:11 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 397
+[16-Jul-2025 02:39:12 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 397
+[16-Jul-2025 02:39:12 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 397
+[16-Jul-2025 02:39:12 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 397
+[16-Jul-2025 02:39:51 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 398
+[16-Jul-2025 02:39:51 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 398
+[16-Jul-2025 02:39:52 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 398
+[16-Jul-2025 02:39:52 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 398
+[16-Jul-2025 02:40:13 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 391
+[16-Jul-2025 02:40:13 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 391
+[16-Jul-2025 02:40:14 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 391
+[16-Jul-2025 02:40:14 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 391
+[16-Jul-2025 02:41:05 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 392
+[16-Jul-2025 02:41:06 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 392
+[16-Jul-2025 02:41:06 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 392
+[16-Jul-2025 02:41:06 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 392
+[16-Jul-2025 02:41:55 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 389
+[16-Jul-2025 02:41:55 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 389
+[16-Jul-2025 02:41:55 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 389
+[16-Jul-2025 02:42:27 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 389
+[16-Jul-2025 02:42:27 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 389
+[16-Jul-2025 02:42:28 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 389
+[16-Jul-2025 02:42:28 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 389
+[16-Jul-2025 02:42:30 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 389
+[16-Jul-2025 02:42:35 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 389
+[16-Jul-2025 02:43:12 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 389
+[16-Jul-2025 02:43:14 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 389
+[16-Jul-2025 02:43:54 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/sdlcutting/itsg.sdldts.net/employee/update_employee.php on line 391
+[16-Jul-2025 12:51:53 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 353
+[16-Jul-2025 12:51:53 Asia/Dhaka] PHP Warning:  Undefined variable $is_product_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 357
+[16-Jul-2025 12:51:53 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 362
+[16-Jul-2025 12:51:53 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 365
+[16-Jul-2025 12:51:53 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 368
+[16-Jul-2025 12:51:53 Asia/Dhaka] PHP Warning:  Undefined variable $is_product_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 374
+[16-Jul-2025 12:51:53 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 379
+[16-Jul-2025 12:51:53 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 382
+[16-Jul-2025 12:51:53 Asia/Dhaka] PHP Warning:  Undefined variable $is_product_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 388
+[16-Jul-2025 12:51:53 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 393
+[16-Jul-2025 12:51:53 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 396
+[16-Jul-2025 12:51:53 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 399
+[16-Jul-2025 12:51:53 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 405
+[16-Jul-2025 12:51:53 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 408
+[16-Jul-2025 12:51:53 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 419
+[16-Jul-2025 12:51:53 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 422
+[16-Jul-2025 12:51:53 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 425
+[16-Jul-2025 12:51:57 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 353
+[16-Jul-2025 12:51:57 Asia/Dhaka] PHP Warning:  Undefined variable $is_product_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 357
+[16-Jul-2025 12:51:57 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 362
+[16-Jul-2025 12:51:57 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 365
+[16-Jul-2025 12:51:57 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 368
+[16-Jul-2025 12:51:57 Asia/Dhaka] PHP Warning:  Undefined variable $is_product_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 374
+[16-Jul-2025 12:51:57 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 379
+[16-Jul-2025 12:51:57 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 382
+[16-Jul-2025 12:51:57 Asia/Dhaka] PHP Warning:  Undefined variable $is_product_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 388
+[16-Jul-2025 12:51:57 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 393
+[16-Jul-2025 12:51:57 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 396
+[16-Jul-2025 12:51:57 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 399
+[16-Jul-2025 12:51:57 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 405
+[16-Jul-2025 12:51:57 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 408
+[16-Jul-2025 12:51:57 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 419
+[16-Jul-2025 12:51:57 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 422
+[16-Jul-2025 12:51:57 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 425
+[16-Jul-2025 12:52:15 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 353
+[16-Jul-2025 12:52:15 Asia/Dhaka] PHP Warning:  Undefined variable $is_product_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 357
+[16-Jul-2025 12:52:15 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 362
+[16-Jul-2025 12:52:15 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 365
+[16-Jul-2025 12:52:15 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 368
+[16-Jul-2025 12:52:15 Asia/Dhaka] PHP Warning:  Undefined variable $is_product_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 374
+[16-Jul-2025 12:52:15 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 379
+[16-Jul-2025 12:52:15 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 382
+[16-Jul-2025 12:52:15 Asia/Dhaka] PHP Warning:  Undefined variable $is_product_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 388
+[16-Jul-2025 12:52:15 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 393
+[16-Jul-2025 12:52:15 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 396
+[16-Jul-2025 12:52:15 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 399
+[16-Jul-2025 12:52:15 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 405
+[16-Jul-2025 12:52:15 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 408
+[16-Jul-2025 12:52:15 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 419
+[16-Jul-2025 12:52:15 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 422
+[16-Jul-2025 12:52:15 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 425
+[16-Jul-2025 12:52:16 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 353
+[16-Jul-2025 12:52:16 Asia/Dhaka] PHP Warning:  Undefined variable $is_product_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 357
+[16-Jul-2025 12:52:16 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 362
+[16-Jul-2025 12:52:16 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 365
+[16-Jul-2025 12:52:16 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 368
+[16-Jul-2025 12:52:16 Asia/Dhaka] PHP Warning:  Undefined variable $is_product_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 374
+[16-Jul-2025 12:52:16 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 379
+[16-Jul-2025 12:52:16 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 382
+[16-Jul-2025 12:52:16 Asia/Dhaka] PHP Warning:  Undefined variable $is_product_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 388
+[16-Jul-2025 12:52:16 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 393
+[16-Jul-2025 12:52:16 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 396
+[16-Jul-2025 12:52:16 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 399
+[16-Jul-2025 12:52:16 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 405
+[16-Jul-2025 12:52:16 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 408
+[16-Jul-2025 12:52:16 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 419
+[16-Jul-2025 12:52:16 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 422
+[16-Jul-2025 12:52:16 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 425
+[16-Jul-2025 12:52:19 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 353
+[16-Jul-2025 12:52:19 Asia/Dhaka] PHP Warning:  Undefined variable $is_product_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 357
+[16-Jul-2025 12:52:19 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 362
+[16-Jul-2025 12:52:19 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 365
+[16-Jul-2025 12:52:19 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 368
+[16-Jul-2025 12:52:19 Asia/Dhaka] PHP Warning:  Undefined variable $is_product_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 374
+[16-Jul-2025 12:52:19 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 379
+[16-Jul-2025 12:52:19 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 382
+[16-Jul-2025 12:52:19 Asia/Dhaka] PHP Warning:  Undefined variable $is_product_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 388
+[16-Jul-2025 12:52:19 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 393
+[16-Jul-2025 12:52:19 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 396
+[16-Jul-2025 12:52:19 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 399
+[16-Jul-2025 12:52:19 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 405
+[16-Jul-2025 12:52:19 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 408
+[16-Jul-2025 12:52:19 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 419
+[16-Jul-2025 12:52:19 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 422
+[16-Jul-2025 12:52:19 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 425
+[16-Jul-2025 12:52:20 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 353
+[16-Jul-2025 12:52:20 Asia/Dhaka] PHP Warning:  Undefined variable $is_product_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 357
+[16-Jul-2025 12:52:20 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 362
+[16-Jul-2025 12:52:20 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 365
+[16-Jul-2025 12:52:20 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 368
+[16-Jul-2025 12:52:20 Asia/Dhaka] PHP Warning:  Undefined variable $is_product_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 374
+[16-Jul-2025 12:52:20 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 379
+[16-Jul-2025 12:52:20 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 382
+[16-Jul-2025 12:52:20 Asia/Dhaka] PHP Warning:  Undefined variable $is_product_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 388
+[16-Jul-2025 12:52:20 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 393
+[16-Jul-2025 12:52:20 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 396
+[16-Jul-2025 12:52:20 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 399
+[16-Jul-2025 12:52:20 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 405
+[16-Jul-2025 12:52:20 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 408
+[16-Jul-2025 12:52:20 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 419
+[16-Jul-2025 12:52:20 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 422
+[16-Jul-2025 12:52:20 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 425
+[16-Jul-2025 12:52:21 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 353
+[16-Jul-2025 12:52:21 Asia/Dhaka] PHP Warning:  Undefined variable $is_product_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 357
+[16-Jul-2025 12:52:21 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 362
+[16-Jul-2025 12:52:21 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 365
+[16-Jul-2025 12:52:21 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 368
+[16-Jul-2025 12:52:21 Asia/Dhaka] PHP Warning:  Undefined variable $is_product_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 374
+[16-Jul-2025 12:52:21 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 379
+[16-Jul-2025 12:52:21 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 382
+[16-Jul-2025 12:52:21 Asia/Dhaka] PHP Warning:  Undefined variable $is_product_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 388
+[16-Jul-2025 12:52:21 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 393
+[16-Jul-2025 12:52:21 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 396
+[16-Jul-2025 12:52:21 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 399
+[16-Jul-2025 12:52:21 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 405
+[16-Jul-2025 12:52:21 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 408
+[16-Jul-2025 12:52:21 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 419
+[16-Jul-2025 12:52:21 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 422
+[16-Jul-2025 12:52:21 Asia/Dhaka] PHP Warning:  Undefined variable $current_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 425
+[27-Dec-2025 16:54:44 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[27-Dec-2025 16:54:45 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[28-Dec-2025 07:56:14 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[28-Dec-2025 16:02:03 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[01-Jan-2026 16:27:18 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[02-Jan-2026 12:15:06 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[02-Jan-2026 12:23:31 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[02-Jan-2026 12:23:32 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[02-Jan-2026 12:25:58 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[05-Jan-2026 08:49:59 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[05-Jan-2026 08:50:05 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[06-Jan-2026 10:50:20 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[10-Jan-2026 09:11:04 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[10-Jan-2026 09:11:07 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[10-Jan-2026 09:11:11 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[10-Jan-2026 09:11:23 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[10-Jan-2026 09:11:45 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[10-Jan-2026 09:12:03 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[10-Jan-2026 09:12:07 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[10-Jan-2026 09:13:18 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[13-Jan-2026 11:42:04 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[13-Jan-2026 11:48:14 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[13-Jan-2026 11:48:24 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[17-Jan-2026 16:28:04 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[17-Jan-2026 16:28:06 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[17-Jan-2026 16:28:10 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[17-Jan-2026 16:28:21 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[17-Jan-2026 16:28:29 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[17-Jan-2026 16:29:26 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[17-Jan-2026 16:29:52 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[17-Jan-2026 16:30:10 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[17-Jan-2026 16:30:26 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[17-Jan-2026 16:30:29 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[17-Jan-2026 16:31:13 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[17-Jan-2026 16:31:16 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[17-Jan-2026 16:31:28 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[17-Jan-2026 16:31:32 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[17-Jan-2026 16:31:34 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[17-Jan-2026 16:31:37 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[17-Jan-2026 16:31:39 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[17-Jan-2026 16:31:41 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[17-Jan-2026 16:31:43 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[17-Jan-2026 16:31:46 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[17-Jan-2026 16:31:48 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[17-Jan-2026 16:31:50 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[17-Jan-2026 16:31:51 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[17-Jan-2026 16:31:55 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[18-Jan-2026 13:04:09 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
+[18-Jan-2026 13:04:13 Asia/Dhaka] PHP Warning:  Undefined variable $is_purchase_page in /home/sdlcutting/itsg.sdldts.net/includes/header.php on line 514
